@@ -1,0 +1,3362 @@
+[
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "DBD",
+   "Nama Doc": "SOP MS Mandiri",
+   "Link": "",
+   "File Name": "SNS_SOP_DBD_SOP MS Mandiri.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "DBD",
+   "Nama Doc": "SOP Operational B2B (Pembelian E-Logistic)",
+   "Link": "",
+   "File Name": "SNS_SOP_DBD_SOP Operational B2B (Pembelian E-Logistic).pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "DBD",
+   "Nama Doc": "Sistem Point MS I DO",
+   "Link": "",
+   "File Name": "SNS_SOP_DBD_Sistem Point MS I DO.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "DD",
+   "Nama Doc": "SOP MDS (Mitra Distribusi SNS)",
+   "Link": "",
+   "File Name": "SNS_SOP_DD_SOP MDS (Mitra Distribusi SNS).pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Serah Terima Faktur Pengarsipan Dokumen Hasil Pengiriman (Receiving)",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Serah Terima Faktur Pengarsipan Dokumen Hasil Pengiriman (Receiving).pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Maintenance Bank Depo",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Maintenance Bank Depo.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Contingency Plan Failure Management - BOSnet Centralization",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Contingency Plan Failure Management - BOSnet Centralization.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Rekonsiliasi Data Dengan Principal",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Rekonsiliasi Data Dengan Principal.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengajuan dan Perubahan Master Data Centralisation",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Pengajuan dan Perubahan Master Data Centralisation.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengelolaan Device Modis",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Pengelolaan Device Modis.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengeluaran Kas Besar Setor ke Bank Tradisional",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Pengeluaran Kas Besar Setor ke Bank Tradisional.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengeluaran Kas besar untuk Refil Kas Kecil Tradisional",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Pengeluaran Kas besar untuk Refil Kas Kecil Tradisional.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengeluaran Kasbon Kas Kecil Bank Tradisional",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Pengeluaran Kasbon Kas Kecil Bank Tradisional.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Realisasi Biaya Kasbon Kas Kecil Tradisional",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Realisasi Biaya Kasbon Kas Kecil Tradisional.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Opname Piutang Dagang",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Opname Piutang Dagang.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Klaim Promosi",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Klaim Promosi.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pembuatan CN-DN",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Pembuatan CN-DN.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Persiapan Penagihan Piutang MM",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Persiapan Penagihan Piutang MM.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Opname Kas & Cek Giro",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Opname Kas & Cek Giro.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengajuan Opex BCS",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Pengajuan Opex BCS.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengajuan Capex BCS",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Pengajuan Capex BCS.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengajuan Pemindahan Budget BCS",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Pengajuan Pemindahan Budget BCS.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Penerimaan Invoice",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Penerimaan Invoice.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengajuan Pengisian Kas Kecil",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Pengajuan Pengisian Kas Kecil.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengeluaran Kas & Bank",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Pengeluaran Kas & Bank.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Penerimaan Kas & Bank",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Penerimaan Kas & Bank.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengajuan Titip Dana",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Pengajuan Titip Dana.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pembuatan Tagihan Piutang Non Dagang",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Pembuatan Tagihan Piutang Non Dagang.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengajuan Distributor Financing",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Pengajuan Distributor Financing.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Closing Harian DepoNew BOSnet",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Closing Harian DepoNew BOSnet.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Monitoring Piutang Dagang",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Monitoring Piutang Dagang.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Laporan Hasil Penagihan",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Laporan Hasil Penagihan.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Transaksi pada Bank Settlement",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Transaksi pada Bank Settlement.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Mekanisme Pengarsipan Softcopy Dokumen Klaim",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Mekanisme Pengarsipan Softcopy Dokumen Klaim.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Moitoring Leadtime Klaim Promo",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Moitoring Leadtime Klaim Promo.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Monitoring FPP",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Monitoring FPP.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Membuat Laporan Kas Harian",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Membuat Laporan Kas Harian.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Membuat Laporan Rekonsiliasi Piutang Promosi Bulanan",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Membuat Laporan Rekonsiliasi Piutang Promosi Bulanan.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pencairan dan Penolakan Giro",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pencairan dan Penolakan Giro.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Rekonsiliasi Bank",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Rekonsiliasi Bank.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Auto Sweep",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Auto Sweep.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Incoming Bank",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Incoming Bank.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Opname Giro",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Opname Giro.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Opname Kas Kecil",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Opname Kas Kecil.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Opname Kas Besar",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Opname Kas Besar.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengarsipan Piutang Dagang",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pengarsipan Piutang Dagang.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pelaksanaan Opname Piutang",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pelaksanaan Opname Piutang.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Persiapan Opname Piutang",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Persiapan Opname Piutang.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Setting Mapping Formula Harga Produk di Aplikas PAS",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Setting Mapping Formula Harga Produk di Aplikas PAS.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Setting Harga Incasi di Aplikasi PAS",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Setting Harga Incasi di Aplikasi PAS.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pelaksanaan Alokasi Nomor Seri Faktur Pajak",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pelaksanaan Alokasi Nomor Seri Faktur Pajak.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Setting Depo di Aplikasi PAS",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Setting Depo di Aplikasi PAS.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Setting Rabat Produk di Aplikasi PAS dan SAP",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Setting Rabat Produk di Aplikasi PAS dan SAP.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Setting Harga Bosnet Pada Aplikasi PAS",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Setting Harga Bosnet Pada Aplikasi PAS.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Monitoring Optimalisasi SKIP All Region",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Monitoring Optimalisasi SKIP All Region.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Proses Inject FPP ke Aplikasi ASAP-Konsol",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Proses Inject FPP ke Aplikasi ASAP-Konsol.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Monitoring Pelaksanaan Ekseskusi Update Master Data pada Depo atau SnsPoint",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Monitoring Pelaksanaan Ekseskusi Update Master Data pada Depo atau SnsPoint.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pedoman Kunjungan Sosialisasi ke Customer",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pedoman Kunjungan Sosialisasi ke Customer.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Penggunaan Aplikasi FAQ",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Penggunaan Aplikasi FAQ.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Proses Klaim Promosi Tradisional dan Modern Market",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Proses Klaim Promosi Tradisional dan Modern Market.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Mekanisme Pembuatan DoKumen Klaim",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Mekanisme Pembuatan DoKumen Klaim.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Penggunaan Aplikasi Daster Pink Untuk Melakukan Setting Promo Bosnet",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Penggunaan Aplikasi Daster Pink Untuk Melakukan Setting Promo Bosnet.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengajuan Proposal Opex",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pengajuan Proposal Opex.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengajuan Proposal Travel",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pengajuan Proposal Travel.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengajuan Kas bon",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pengajuan Kas bon.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengajuan Proposal Capex",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pengajuan Proposal Capex.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengajuan Proposal Perjalanan Dinas",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pengajuan Proposal Perjalanan Dinas.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Budget Transfer Request",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Budget Transfer Request.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengajuan Claim Opex",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pengajuan Claim Opex.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengajuan Claim Travel",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pengajuan Claim Travel.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengajuan Claim Capex",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pengajuan Claim Capex.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pembayaran dan Penyelesaian Kasbon",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pembayaran dan Penyelesaian Kasbon.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pembayaran Claim ( Tanpa Kasbon)",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pembayaran Claim ( Tanpa Kasbon).pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Opname Kas Kecil",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Opname Kas Kecil.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Membuat Laporan Bank Harian",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Membuat Laporan Bank Harian.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pengajuan Dropping Dana Region ke HO",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pengajuan Dropping Dana Region ke HO.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Membuat Laporan Bank Harian",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Membuat Laporan Bank Harian.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Perhitungan Manual Cost of Fund",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Perhitungan Manual Cost of Fund.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Proses Pickup Services",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Proses Pickup Services.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Membuat Laporan Rekonsiliasi Piutang Promosi Bulanan",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Membuat Laporan Rekonsiliasi Piutang Promosi Bulanan.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Monitoring Piutang Non Dagang",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Monitoring Piutang Non Dagang.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Membuat Laporan Kas Harian",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Membuat Laporan Kas Harian.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Proses Claim Promosi NCS",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Proses Claim Promosi NCS.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pegecekan Budget Kuitansi Klaim Promo",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pegecekan Budget Kuitansi Klaim Promo.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pembayaran Potongan NCS Depo",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pembayaran Potongan NCS Depo.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Leasing",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Leasing.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Mekanisme Penggunaan Xscan Pet",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Mekanisme Penggunaan Xscan Pet.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Pembuatan Database Opname Asset",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Pembuatan Database Opname Asset.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Mekanisme Proses Klaim Tradisional dan MTI",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Mekanisme Proses Klaim Tradisional dan MTI.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Mutasi Asset",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Mutasi Asset.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Customer Signature",
+   "Link": "",
+   "File Name": "SNS_SOP_FA&IT_Customer Signature.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "ST",
+   "Divisi": "FA&IT",
+   "Nama Doc": "ST Cashless Type A",
+   "Link": "",
+   "File Name": "SNS_ST_FA&IT_ST Cashless Type A.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Proses Input Tukar Faktur Kembali",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Proses Input Tukar Faktur Kembali.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Closing Akhir Bulan",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Closing Akhir Bulan.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "FA&IT",
+   "Nama Doc": "Realisasi Nota Retur PKP",
+   "Link": "",
+   "File Name": "SNS_WI_FA&IT_Realisasi Nota Retur PKP.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Finance ",
+   "Nama Doc": "Proses Pemberian Reward ITP Ke Pelanggan",
+   "Link": "",
+   "File Name": "SNS_SOP_Finance _Proses Pemberian Reward ITP Ke Pelanggan.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "Pengajuan dan Penyelesaian COPMOP",
+   "Link": "",
+   "File Name": "SNS_SOP_ HC & GA_Pengajuan dan Penyelesaian COPMOP.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "Opname Asset",
+   "Link": "",
+   "File Name": "SNS_SOP_ HC & GA_Opname Asset.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "Pengadaan Asset",
+   "Link": "",
+   "File Name": "SNS_SOP_ HC & GA_Pengadaan Asset.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "Perawatan dan Perbaikan Kendaraan Operational",
+   "Link": "",
+   "File Name": "SNS_SOP_ HC & GA_Perawatan dan Perbaikan Kendaraan Operational.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Training",
+   "Link": "",
+   "File Name": "SNS_SOP_ HC & GA_SOP Training.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Payroll",
+   "Link": "",
+   "File Name": "SNS_SOP_ HC & GA_SOP Payroll.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Pengajuan Realisasi Benefit di EBSS",
+   "Link": "",
+   "File Name": "SNS_SOP_ HC & GA_SOP Pengajuan Realisasi Benefit di EBSS.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "Value Assessment",
+   "Link": "",
+   "File Name": "SNS_SOP_ HC & GA_Value Assessment.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Individual Development Plan",
+   "Link": "",
+   "File Name": "SNS_SOP_ HC & GA_SOP Individual Development Plan.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP People Review",
+   "Link": "",
+   "File Name": "SNS_SOP_ HC & GA_SOP People Review.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Orientasi Karyawan Baru",
+   "Link": "",
+   "File Name": "SNS_SOP_ HC & GA_SOP Orientasi Karyawan Baru.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "ST",
+   "Divisi": " HC & GA",
+   "Nama Doc": "ST PIC Kendaraan Operasional",
+   "Link": "",
+   "File Name": "SNS_ST_ HC & GA_ST PIC Kendaraan Operasional.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Legal",
+   "Nama Doc": "Pembuatan Agreement PS BG",
+   "Link": "",
+   "File Name": "SNS_SOP_Legal_Pembuatan Agreement PS BG.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Legal",
+   "Nama Doc": "Pembuatan Perjanjian Sewa Gudang & New SNS Point",
+   "Link": "",
+   "File Name": "SNS_SOP_Legal_Pembuatan Perjanjian Sewa Gudang & New SNS Point.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Legal",
+   "Nama Doc": "SOP Pembelian Tanah",
+   "Link": "",
+   "File Name": "SNS_SOP_Legal_SOP Pembelian Tanah.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Legal",
+   "Nama Doc": "WI Pemeriksaan Sertifikat Tanah",
+   "Link": "",
+   "File Name": "SNS_WI_Legal_WI Pemeriksaan Sertifikat Tanah.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Legal",
+   "Nama Doc": "WI Pengecekan DOKumen Sewa Gudang",
+   "Link": "",
+   "File Name": "SNS_WI_Legal_WI Pengecekan DOKumen Sewa Gudang.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "ST",
+   "Divisi": "Logistic",
+   "Nama Doc": "ST Penyimpanan Produk E-Logistic",
+   "Link": "",
+   "File Name": "SNS_ST_Logistic_ST Penyimpanan Produk E-Logistic.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic",
+   "Nama Doc": "SOP Penerimaan Uang (COD) E-Logistic",
+   "Link": "",
+   "File Name": "SNS_SOP_Logistic_SOP Penerimaan Uang (COD) E-Logistic.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic",
+   "Nama Doc": "WI Proses Operational Admin E-Log",
+   "Link": "",
+   "File Name": "SNS_WI_Logistic_WI Proses Operational Admin E-Log.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "ST",
+   "Divisi": "Logistic",
+   "Nama Doc": "ST Kerusakan Produk",
+   "Link": "",
+   "File Name": "SNS_ST_Logistic_ST Kerusakan Produk.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic",
+   "Nama Doc": "Pengisian Laporan Faktur Tidak Terkirim dan Tidak Lengkap",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83525 ",
+   "File Name": "SNS_WI_Logistic_Pengisian Laporan Faktur Tidak Terkirim dan Tidak Lengkap.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic",
+   "Nama Doc": "Pemeriksaan Kendaraan Melalui Aplikasi Google Form",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=100494 ",
+   "File Name": "SNS_WI_Logistic_Pemeriksaan Kendaraan Melalui Aplikasi Google Form.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic",
+   "Nama Doc": "Monitoring Feedback Rute Untuk Delivery",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=91333 ",
+   "File Name": "SNS_WI_Logistic_Monitoring Feedback Rute Untuk Delivery.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic",
+   "Nama Doc": "Serah Terima Faktur Pengarsipan Dokumen Hasil Pengiriman (Receiving)",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83522 ",
+   "File Name": "SNS_WI_Logistic_Serah Terima Faktur Pengarsipan Dokumen Hasil Pengiriman (Receiving).pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic",
+   "Nama Doc": "WI Pelaksanaan Repacking Produk",
+   "Link": "",
+   "File Name": "SNS_WI_Logistic_WI Pelaksanaan Repacking Produk.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic",
+   "Nama Doc": "SOP Replenishment RDC dengan Cross Docking",
+   "Link": "",
+   "File Name": "SNS_SOP_Logistic_SOP Replenishment RDC dengan Cross Docking.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic",
+   "Nama Doc": "Cara Input PO Trasporter di BOSnet",
+   "Link": "",
+   "File Name": "SNS_WI_Logistic_Cara Input PO Trasporter di BOSnet.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic",
+   "Nama Doc": "Penanganan Produk Retur NPL",
+   "Link": "",
+   "File Name": "SNS_SOP_Logistic_Penanganan Produk Retur NPL.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic",
+   "Nama Doc": "WI Persiapan stock opname",
+   "Link": "",
+   "File Name": "SNS_WI_Logistic_WI Persiapan stock opname.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic",
+   "Nama Doc": "WI Pelaksanaan Stock Opname",
+   "Link": "",
+   "File Name": "SNS_WI_Logistic_WI Pelaksanaan Stock Opname.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic",
+   "Nama Doc": "WI Input Perbandingan Stock Opname",
+   "Link": "",
+   "File Name": "SNS_WI_Logistic_WI Input Perbandingan Stock Opname.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic",
+   "Nama Doc": "WI Penyelesaian Stock Opname di Aplikasi",
+   "Link": "",
+   "File Name": "SNS_WI_Logistic_WI Penyelesaian Stock Opname di Aplikasi.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic",
+   "Nama Doc": "WI Tindak Lanjut Penanganan Produk Karantina",
+   "Link": "",
+   "File Name": "SNS_WI_Logistic_WI Tindak Lanjut Penanganan Produk Karantina.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "ST",
+   "Divisi": "Logistic",
+   "Nama Doc": "ST Penanganan Produk NED di Gudang DC dan Depo",
+   "Link": "",
+   "File Name": "SNS_ST_Logistic_ST Penanganan Produk NED di Gudang DC dan Depo.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "ST",
+   "Divisi": "Logistic",
+   "Nama Doc": "ST Batas Minimal Sisa Expired Data Produk GPPJ yang dapat di Klaim Sebagai Produk Menyimpang",
+   "Link": "",
+   "File Name": "SNS_ST_Logistic_ST Batas Minimal Sisa Expired Data Produk GPPJ yang dapat di Klaim Sebagai Produk Menyimpang.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Proses Pengiriman Elogistic",
+   "Link": "",
+   "File Name": "SNS_SOP_Logistic _Proses Pengiriman Elogistic.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Pengadaan dan Monitoring Buffer Kemasan",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=106777 ",
+   "File Name": "SNS_SOP_Logistic _Pengadaan dan Monitoring Buffer Kemasan.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic ",
+   "Nama Doc": "SOP Mutasi Antar Gudang (Inventory Control )",
+   "Link": "",
+   "File Name": "SNS_SOP_Logistic _SOP Mutasi Antar Gudang (Inventory Control ).pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Pemusnahan Produk",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=104445 ",
+   "File Name": "SNS_SOP_Logistic _Pemusnahan Produk.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Pelaksanaan Cross Docking",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83237 ",
+   "File Name": "SNS_SOP_Logistic _Pelaksanaan Cross Docking.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic ",
+   "Nama Doc": "SOP Replenishment RDC",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=100491",
+   "File Name": "SNS_SOP_Logistic _SOP Replenishment RDC.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Pengiriman Produk ke Customer",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=106815",
+   "File Name": "SNS_SOP_Logistic _Pengiriman Produk ke Customer.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Laporan Hasil Pengiriman Ke Customer (Modis Delivery)",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83234",
+   "File Name": "SNS_SOP_Logistic _Laporan Hasil Pengiriman Ke Customer (Modis Delivery).pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Pengeluaran Produk",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83240",
+   "File Name": "SNS_SOP_Logistic _Pengeluaran Produk.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Penerimaan Barang dari Supplier",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83233",
+   "File Name": "SNS_SOP_Logistic _Penerimaan Barang dari Supplier.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Mutasi Internal Depo",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83232",
+   "File Name": "SNS_SOP_Logistic _Mutasi Internal Depo.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Stock Opname Gudang",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83241",
+   "File Name": "SNS_SOP_Logistic _Stock Opname Gudang.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Penarikan Produk Retur dari Customer PKP",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=95913",
+   "File Name": "SNS_SOP_Logistic _Penarikan Produk Retur dari Customer PKP.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic ",
+   "Nama Doc": "SOP Sentralisasi Budget (SOP Pembangunan dan sewa gudang )",
+   "Link": "",
+   "File Name": "SNS_SOP_Logistic _SOP Sentralisasi Budget (SOP Pembangunan dan sewa gudang ).pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "ST",
+   "Divisi": "Logistic ",
+   "Nama Doc": "ST E-Logistic",
+   "Link": "",
+   "File Name": "SNS_ST_Logistic _ST E-Logistic.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "ST",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Standar Warna Marka dan Petunjuk Gudang",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=64471 ",
+   "File Name": "SNS_ST_Logistic _Standar Warna Marka dan Petunjuk Gudang.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "ST",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Standar Pelaksanaan Audit Compliance di Depo",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=106816 ",
+   "File Name": "SNS_ST_Logistic _Standar Pelaksanaan Audit Compliance di Depo.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Pengambilan Sampling Kemasan Produk Saat Stock Opname",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83520 ",
+   "File Name": "SNS_WI_Logistic _Pengambilan Sampling Kemasan Produk Saat Stock Opname.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Planning, Routing Pengiriman & Pembuatan STK",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83517 ",
+   "File Name": "SNS_WI_Logistic _Planning, Routing Pengiriman & Pembuatan STK.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Pembuatan dan Pengajuan Pemusnahan BS",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83529",
+   "File Name": "SNS_WI_Logistic _Pembuatan dan Pengajuan Pemusnahan BS.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Pelaksanaan Pemusnahan Product BS",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83528",
+   "File Name": "SNS_WI_Logistic _Pelaksanaan Pemusnahan Product BS.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Proses Pengaturan Fast Pick Area",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83523 ",
+   "File Name": "SNS_WI_Logistic _Proses Pengaturan Fast Pick Area.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Pelaksanaan Proses Picking",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83530 ",
+   "File Name": "SNS_WI_Logistic _Pelaksanaan Proses Picking.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Pelaksanaan Loading",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83534 ",
+   "File Name": "SNS_WI_Logistic _Pelaksanaan Loading.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Pelaksanaan Proses Bongkar",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83524 ",
+   "File Name": "SNS_WI_Logistic _Pelaksanaan Proses Bongkar.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Proses Pemasangan Identitas Sisa ED Produk",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83531 ",
+   "File Name": "SNS_WI_Logistic _Proses Pemasangan Identitas Sisa ED Produk.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Pengoperasian Forklift",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83526 ",
+   "File Name": "SNS_WI_Logistic _Pengoperasian Forklift.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Update Master Kendaraan Dropping",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83527 ",
+   "File Name": "SNS_WI_Logistic _Update Master Kendaraan Dropping.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Monitoring Pengisian dan Pembuatan Laporan BBM Kendaraan Dropping",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=95905 ",
+   "File Name": "SNS_WI_Logistic _Monitoring Pengisian dan Pembuatan Laporan BBM Kendaraan Dropping.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Cara Menggunakan Tools Kebutuhan Replenishment",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=100493 ",
+   "File Name": "SNS_WI_Logistic _Cara Menggunakan Tools Kebutuhan Replenishment.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Planning & Routing Pengiriman Produk Cross Docking",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83533 ",
+   "File Name": "SNS_WI_Logistic _Planning & Routing Pengiriman Produk Cross Docking.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Pengiriman Produk (Cross Docking)",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83514 ",
+   "File Name": "SNS_WI_Logistic _Pengiriman Produk (Cross Docking).pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Penerimaan Produk (Cross Docking)",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83515 ",
+   "File Name": "SNS_WI_Logistic _Penerimaan Produk (Cross Docking).pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Cara Menggunakan Modis Delivery",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=100498 ",
+   "File Name": "SNS_WI_Logistic _Cara Menggunakan Modis Delivery.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Penanganan Gagal Kirim",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83532",
+   "File Name": "SNS_WI_Logistic _Penanganan Gagal Kirim.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Pengajuan Retur NPL Region",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=83516 ",
+   "File Name": "SNS_WI_Logistic _Pengajuan Retur NPL Region.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Input Audit Complience",
+   "Link": "http://dms/out/out.ViewDocument.php?documentid=101560 ",
+   "File Name": "SNS_WI_Logistic _Input Audit Complience.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic ",
+   "Nama Doc": "SOP Stock Opnama Gudang E-Logistic",
+   "Link": "",
+   "File Name": "SNS_SOP_Logistic _SOP Stock Opnama Gudang E-Logistic.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Logistic ",
+   "Nama Doc": "WI Pemasangan, Perawatan dan Penggunaan APAR Kendaraan Delivery",
+   "Link": "",
+   "File Name": "SNS_WI_Logistic _WI Pemasangan, Perawatan dan Penggunaan APAR Kendaraan Delivery.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Logistic ",
+   "Nama Doc": "Penanganan Produk Menyimpang (Produk Reject)",
+   "Link": "",
+   "File Name": "SNS_SOP_Logistic _Penanganan Produk Menyimpang (Produk Reject).pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "ST",
+   "Divisi": "OSM ",
+   "Nama Doc": "Ketentuan Implementasi Process Management System",
+   "Link": "",
+   "File Name": "SNS_ST_OSM _Ketentuan Implementasi Process Management System.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Cancel dan Closing Sales Order",
+   "Link": "",
+   "File Name": "SNS_WI_Sales Operation _Cancel dan Closing Sales Order.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Penutupan Partner SNS",
+   "Link": "",
+   "File Name": "SNS_SOP_Sales Operation _Penutupan Partner SNS.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Pengajuan Order dan Realisasi Order Partner SNS",
+   "Link": "",
+   "File Name": "SNS_SOP_Sales Operation _Pengajuan Order dan Realisasi Order Partner SNS.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Pembukaan Partner SNS",
+   "Link": "",
+   "File Name": "SNS_SOP_Sales Operation _Pembukaan Partner SNS.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Pembukaan Agen SNS",
+   "Link": "",
+   "File Name": "SNS_SOP_Sales Operation _Pembukaan Agen SNS.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Kunjungan Penagihan Piutang",
+   "Link": "",
+   "File Name": "SNS_SOP_Sales Operation _Kunjungan Penagihan Piutang.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Persiapan Kunjungan Sales Representative",
+   "Link": "",
+   "File Name": "SNS_SOP_Sales Operation _Persiapan Kunjungan Sales Representative.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Kunjungan Sales Representative Modis",
+   "Link": "",
+   "File Name": "SNS_SOP_Sales Operation _Kunjungan Sales Representative Modis.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Persiapan Penagihan Piutang",
+   "Link": "",
+   "File Name": "SNS_SOP_Sales Operation _Persiapan Penagihan Piutang.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Open New Customer",
+   "Link": "",
+   "File Name": "SNS_SOP_Sales Operation _Open New Customer.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Kunjungan Penagihan Piutang Modern Market",
+   "Link": "",
+   "File Name": "SNS_SOP_Sales Operation _Kunjungan Penagihan Piutang Modern Market.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Kunjungan Sales Modern Market - Account Executive",
+   "Link": "",
+   "File Name": "SNS_SOP_Sales Operation _Kunjungan Sales Modern Market - Account Executive.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Open New Customer Modern Market",
+   "Link": "",
+   "File Name": "SNS_SOP_Sales Operation _Open New Customer Modern Market.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Pengajuan Retur Customer Modern Market",
+   "Link": "",
+   "File Name": "SNS_SOP_Sales Operation _Pengajuan Retur Customer Modern Market.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Briefing Awal Kerja",
+   "Link": "",
+   "File Name": "SNS_WI_Sales Operation _Briefing Awal Kerja.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Kelengkapan Dokumen Tukar Faktur Modern Market",
+   "Link": "",
+   "File Name": "SNS_WI_Sales Operation _Kelengkapan Dokumen Tukar Faktur Modern Market.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Proses Tukar Faktur",
+   "Link": "",
+   "File Name": "SNS_WI_Sales Operation _Proses Tukar Faktur.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Evaluasi Hasil Kunjungan Salesman",
+   "Link": "",
+   "File Name": "SNS_WI_Sales Operation _Evaluasi Hasil Kunjungan Salesman.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "WI",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "Laporan Monitoring Sales Order Open",
+   "Link": "",
+   "File Name": "SNS_WI_Sales Operation _Laporan Monitoring Sales Order Open.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "SOP PDE",
+   "Link": "",
+   "File Name": "SNS_SOP_Sales Operation _SOP PDE.pdf"
+ },
+ {
+   "Owner": "SNS",
+   "Jenis Dokumen": "ST",
+   "Divisi": "Sales Operation ",
+   "Nama Doc": "ST PDE",
+   "Link": "",
+   "File Name": "SNS_ST_Sales Operation _ST PDE.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Seleksi Karyawan",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Seleksi Karyawan.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Performance Management System",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Performance Management System.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Generic Competency Assessment",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Generic Competency Assessment.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Champion Development Program Distribusi",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Champion Development Program Distribusi.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Total Reward Strategy",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Total Reward Strategy.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Mutasi",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Mutasi.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Evaluasi Masa Percobaan atau Kontrak",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Evaluasi Masa Percobaan atau Kontrak.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Champion Development Design",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Champion Development Design.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Individual Development Plan",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Individual Development Plan.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Value Assessment",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Value Assessment.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Pelaksanaan Training Dan Evaluasi",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Pelaksanaan Training Dan Evaluasi.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Orientasi Karyawan Baru",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Orientasi Karyawan Baru.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Strategic Sourcing",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Strategic Sourcing.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Administrasi BPJS Kesehatan",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Administrasi BPJS Kesehatan.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Perhitungan Bonus",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Perhitungan Bonus.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Penggunaan Kartu Asuransi Kesehatan",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Penggunaan Kartu Asuransi Kesehatan.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Administrasi Pemutusan Hubungan Kerja",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Administrasi Pemutusan Hubungan Kerja.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Administrasi Perubahan History Kerja Karyawan",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Administrasi Perubahan History Kerja Karyawan.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Pengajuan Pesangon",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Pengajuan Pesangon.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Administrasi Pembuatan Surat Keterangan Kerja Untuk Pihak Eksternal",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Administrasi Pembuatan Surat Keterangan Kerja Untuk Pihak Eksternal.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Pendaftaran Jamsostek",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Pendaftaran Jamsostek.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Payroll",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Payroll.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Pengajuan Klaim Benefit Di EBSS",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Pengajuan Klaim Benefit Di EBSS.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Administrasi Penerimaan Karyawan Baru",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Administrasi Penerimaan Karyawan Baru.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Administrasi Perubahan PKWTT dan PKWT",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Administrasi Perubahan PKWTT dan PKWT.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Emergency Pemesanan, Perubahan, Pembatalan Tiket Pesawat Atau Hotel Untuk DLK atau DLN",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Emergency Pemesanan, Perubahan, Pembatalan Tiket Pesawat Atau Hotel Untuk DLK atau DLN.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Relayout",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Relayout.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Permintaan ATK",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Permintaan ATK.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Permintaan Perbaikan Elektrikal",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Permintaan Perbaikan Elektrikal.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HC & GA",
+   "Nama Doc": "SOP Pembatalan Tiket Pesawat Atau Hotel Untuk DLK atau DLN",
+   "Link": "",
+   "File Name": "HO_SOP_ HC & GA_SOP Pembatalan Tiket Pesawat Atau Hotel Untuk DLK atau DLN.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " Core & Legal",
+   "Nama Doc": "SOP Mitigation Legal Risk",
+   "Link": "",
+   "File Name": "HO_SOP_ Core & Legal_SOP Mitigation Legal Risk.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " Core & Legal",
+   "Nama Doc": "SOP Copyright Registration",
+   "Link": "",
+   "File Name": "HO_SOP_ Core & Legal_SOP Copyright Registration.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " Core & Legal",
+   "Nama Doc": "SOP Lawsuit Handling",
+   "Link": "",
+   "File Name": "HO_SOP_ Core & Legal_SOP Lawsuit Handling.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " Core & Legal",
+   "Nama Doc": "SOP Legal Document Monitoring",
+   "Link": "",
+   "File Name": "HO_SOP_ Core & Legal_SOP Legal Document Monitoring.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " Core & Legal",
+   "Nama Doc": "SOP Notarial Deed",
+   "Link": "",
+   "File Name": "HO_SOP_ Core & Legal_SOP Notarial Deed.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " Core & Legal",
+   "Nama Doc": "SOP Contract Drafting And Reviewing",
+   "Link": "",
+   "File Name": "HO_SOP_ Core & Legal_SOP Contract Drafting And Reviewing.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " Core & Legal",
+   "Nama Doc": "SOP Company Establishment",
+   "Link": "",
+   "File Name": "HO_SOP_ Core & Legal_SOP Company Establishment.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " Core & Legal",
+   "Nama Doc": "SOP General Meeting of Shareholders",
+   "Link": "",
+   "File Name": "HO_SOP_ Core & Legal_SOP General Meeting of Shareholders.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " Core & Legal",
+   "Nama Doc": "SOP Licenses Procedures",
+   "Link": "",
+   "File Name": "HO_SOP_ Core & Legal_SOP Licenses Procedures.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " Core & Legal",
+   "Nama Doc": "SOP Industrial Design Registration",
+   "Link": "",
+   "File Name": "HO_SOP_ Core & Legal_SOP Industrial Design Registration.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " Core & Legal",
+   "Nama Doc": "SOP Compliance Review",
+   "Link": "",
+   "File Name": "HO_SOP_ Core & Legal_SOP Compliance Review.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "SOP Invoice Penjualan Non SD",
+   "Link": "",
+   "File Name": "HO_SOP_ FA_SOP Invoice Penjualan Non SD.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "SOP Invoice Pembelian Non MM",
+   "Link": "",
+   "File Name": "HO_SOP_ FA_SOP Invoice Pembelian Non MM.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "SOP Close_Open Period",
+   "Link": "",
+   "File Name": "HO_SOP_ FA_SOP Close_Open Period.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "SOP Pengajuan Import Di Budget Controller",
+   "Link": "",
+   "File Name": "HO_SOP_ FA_SOP Pengajuan Import Di Budget Controller.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "SOP Customer Down Payment",
+   "Link": "",
+   "File Name": "HO_SOP_ FA_SOP Customer Down Payment.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "SOP Transaksi Asset",
+   "Link": "",
+   "File Name": "HO_SOP_ FA_SOP Transaksi Asset.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "SOP Activity Type Planning",
+   "Link": "",
+   "File Name": "HO_SOP_ FA_SOP Activity Type Planning.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "SOP Cost Object Controlling",
+   "Link": "",
+   "File Name": "HO_SOP_ FA_SOP Cost Object Controlling.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "SOP Activity Rate Planning",
+   "Link": "",
+   "File Name": "HO_SOP_ FA_SOP Activity Rate Planning.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "SOP Profit Center Planning",
+   "Link": "",
+   "File Name": "HO_SOP_ FA_SOP Profit Center Planning.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "SOP Pengajuan Opex Budget Controller",
+   "Link": "",
+   "File Name": "HO_SOP_ FA_SOP Pengajuan Opex Budget Controller.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Marketing",
+   "Nama Doc": "SOP Penerimaan Barang Promosi",
+   "Link": "",
+   "File Name": "HO_SOP_Marketing_SOP Penerimaan Barang Promosi.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Marketing",
+   "Nama Doc": "SOP Pengeluaran Barang Promosi.",
+   "Link": "",
+   "File Name": "HO_SOP_Marketing_SOP Pengeluaran Barang Promosi..pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Marketing",
+   "Nama Doc": "SOP Mekanisme Fee Tim Retail Audit",
+   "Link": "",
+   "File Name": "HO_SOP_Marketing_SOP Mekanisme Fee Tim Retail Audit.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Marketing",
+   "Nama Doc": "SOP Market Insight",
+   "Link": "",
+   "File Name": "HO_SOP_Marketing_SOP Market Insight.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Marketing",
+   "Nama Doc": "SOP Dana Operasional Retail Audit Daerah",
+   "Link": "",
+   "File Name": "HO_SOP_Marketing_SOP Dana Operasional Retail Audit Daerah.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Marketing",
+   "Nama Doc": "SOP Up Scalling",
+   "Link": "",
+   "File Name": "HO_SOP_Marketing_SOP Up Scalling.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Marketing",
+   "Nama Doc": "SOP Data Processing And Data Cleaning Ad - Tracking",
+   "Link": "",
+   "File Name": "HO_SOP_Marketing_SOP Data Processing And Data Cleaning Ad - Tracking.pdf"
+ },
+ {
+   "Owner": "HO",
+   "Jenis Dokumen": "SOP",
+   "Divisi": "Marketing",
+   "Nama Doc": "SOP Media Buying Process",
+   "Link": "",
+   "File Name": "HO_SOP_Marketing_SOP Media Buying Process.pdf"
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " EPRD",
+   "Nama Doc": "Alternative Bom Rev.0.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " EPRD",
+   "Nama Doc": "Trial Skala Lab Scale Up Dan Produksi Rev.0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " EPRD",
+   "Nama Doc": "Pengembangan Produk Dan Pengadaan Kemasan Rev. 2.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " EPRD",
+   "Nama Doc": "Pengecekan Dan Pengkodean Bahan Baku Baru Rev.1.5",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Perbaikan Maintenance Fasilitas Umum Rev. 0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Komunikasi Rev. 0.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Tanggap Darurat Pengelolaan Air Limbah Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Pengendalian Plester Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Instalasi Pengolahan Limbah Cair Rev.0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Pengendalian Limbah B3 Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Ijin Meninggalkan Pekerjaan Rev. 0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Identifikasi Situasi Tanggap Darurat Rev. 0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Incident - Accident Management System (Sistem Penanganan Insiden Kerja) Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Proses Pembayaran Gaji Karyawan Rev. 0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Identifikasi Bahaya Dan Analisa Resiko Rev. 0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Tamu Masuk - Keluar Area Perusahaan Rev. 0.4",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Tanggap Darurat Huru - Hara Demonstrasi Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Pengajuan Komplain Gaji Karyawan Rev. 0.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Proses Training Rev. 0.4",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Permintaan Poduk Csr Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Proses Pemutusan Hubungan Kerja Rev. 0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Pengelolaan Waste Rev. 1.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Tanggap Darurat Tumpahan Cairan B3 Dan Polutan Rev. 0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Identifikasi Dan Pemenuhan Terhadap Peraturan Perundangan Serta Persyaratan Lain Dalam She Rev. 0.5",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Assessment Rev. 0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Penilaian Prestasi Kerjat Rev. 0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Order Kendaraan Dinas Rev. 0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Identifikasi Aspek Dan Dampak Lingkungan Rev. 0.5",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Tanggap Darurat Media Komunikasi Tidak Befungsi Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Proses Permintaan Karyawan Outsource Rev. 0.5",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Pencucian Perlengkapan Kerja Rev. 0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Proses Penggantian Karyawan Outsource Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Work Safety Permit (Pekerjaan Dengan Surat Ijin Keselamatan) Rev. 0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Pemantauan Dan Pengukuran Lingkungan Kerja & Lingkungan Sekitar Rev. 0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Proses Pengunduran Diri Rev. 0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Tanggap Darurat Banjir Rev. 0.4",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Pengendalian Operasional Rev. 0.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Promosi Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Tanggap Darurat Gempa Bumi Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Tata Cara Dan Penggunaan Kupon Makan Di Kantin Rev. 0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Penanganan Darurat Kebakaran Rev. 0.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QA",
+   "Nama Doc": "Seleksi Dan Evaluasi Supplier Pest Control Rev.0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Rekrutmen Rev. 0.5",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Penanganan Karyawan Sakit Rev. 0.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Penanganan Kecelakaan Kerja Rev. 0.5",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Mutasi Karyawan Rev. 0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Karyawan Masuk - Keluar Area Perusahaan Rev. 0.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PDCA",
+   "Nama Doc": "Sistem Pemutakhiran Rev. 0.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PDCA",
+   "Nama Doc": "Pengendalian Dokumen Rev. 2.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PDCA",
+   "Nama Doc": "Verifikasi Dan Validasi Rev. 0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PDCA",
+   "Nama Doc": "Small Group Activity Rev. 0.5",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PDCA",
+   "Nama Doc": "Internal Audit Rev.0.4",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PDCA",
+   "Nama Doc": "Tinjauan Managemen Rev. 1.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PDCA",
+   "Nama Doc": "Pengendalian Rekaman Rev 0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PDCA",
+   "Nama Doc": "Suggestion System Rev. 0.5",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PDCA",
+   "Nama Doc": "Cross Function Team Rev. 0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PDCA",
+   "Nama Doc": "Pengukuran Kepuasan Pelanggan Rev. 0.4",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PDCA",
+   "Nama Doc": "Pelaksanaan Tindakan Preventif Rev. 0.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PDCA",
+   "Nama Doc": "Pelaksanaan Tindakan Korektif Rev. 0.5",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PPIC PEMBELIAN",
+   "Nama Doc": "Pembuatan Rencana Produksi 3 Bulanan Rev. 0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PPIC PEMBELIAN",
+   "Nama Doc": "Evaluasi Supplier Rev. 1.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PPIC PEMBELIAN",
+   "Nama Doc": "Pembuatan Mrp 3 Bulanan Rev. 0.4",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PPIC PEMBELIAN",
+   "Nama Doc": "Complain Dan Retur Bahan Rev. 0.",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PPIC PEMBELIAN",
+   "Nama Doc": "Request For Quotation Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PPIC PEMBELIAN",
+   "Nama Doc": "Unplanned Production Order Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PPIC PEMBELIAN",
+   "Nama Doc": "Pembelian Rev. 0.4",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PPIC PEMBELIAN",
+   "Nama Doc": "Pemenuhan Order Eksport Rev. 0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PPIC PEMBELIAN",
+   "Nama Doc": "Pembuatan Dan Review Rencana Produksi Dan Mrp Bulanan Rev. 1.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PPIC PEMBELIAN",
+   "Nama Doc": "Purchase Requisition Rev. 0.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PPIC PEMBELIAN",
+   "Nama Doc": "Rework Production Order Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PPIC PEMBELIAN",
+   "Nama Doc": "Normal Production Order Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PPIC PEMBELIAN",
+   "Nama Doc": "Pembuatan Rencana Dan Pengendalian Produksi Mingguan Untuk Pemenuhan Order Rev. 1.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Proses Pembuatan Cream Rev.1.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Permintaan Dan Penerimaan Bahan Baku Penunjang Rev. 0.5",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Proses Produksi Lini Butter Cookies Rev.1.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Serah Terima Produk Setelah Reproses Rev.0.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Proses Serah Terima Waste Rev.0.5",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Production Order Closing Rev.0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Proses Produksi Lini Wafer Cream Rev. 1.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Proses Produksi Lini Pasta Rev.1.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Proses Produksi Wafer Roll Rev. 1.5",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Proses Pembuatan Adonan Rev.1.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Goods Receipts From Production Order Rev.0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Proses Persiapan Bahan Kemas Rev.0.5",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Proses Pembuatan Caramel Rev.0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Goods Issue To Production Order Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Proses Produksi Lini Crackers Rev.1.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Proses Pembuatan Selai Rev.0.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Proses Produksi Cookies Rev.1.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Production Inspection Rev.0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Retur Bahan Formula Bahan Kemas Bahan Baku Penunjang Rev. 0.4",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " PRODUKSI",
+   "Nama Doc": "Production Order Confirmation Rev.0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QA",
+   "Nama Doc": "Seleksi Dan Evaluasi Transporter Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QA",
+   "Nama Doc": "Prodk Integrity & Tanggap Darurat Sabotase Produk Rev.0.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QA",
+   "Nama Doc": "Identifikasi Dan Pengananan Bahan Alergen Rev.0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QA",
+   "Nama Doc": "Retur Produk Dari Distributor Rev.0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QA",
+   "Nama Doc": "Pengendalian Kerami Di Area Proses Produksi Rev.0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QA",
+   "Nama Doc": "Tanggap Darurat Gangguan Transporter Rev.0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QA",
+   "Nama Doc": "Pengendalian Kaca Dan Benda Sejenisnya Di Area Proses Produksi Rev.0.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QC",
+   "Nama Doc": "Retain Sampel Produk Rev. 1.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QC",
+   "Nama Doc": "Tanggap Darurat X-Ray Mati Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QC",
+   "Nama Doc": "Penanganan Barang Yang Diuji Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QC",
+   "Nama Doc": "Perbaikan Alat Ukur Rev. 0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QC",
+   "Nama Doc": "Pelayanan Kepada Pelanggan Rev. 0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QC",
+   "Nama Doc": "Pengujian Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QC",
+   "Nama Doc": "Penarikan Produk Rev.1.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QC",
+   "Nama Doc": "Pemilihan Dan Pemakaian Bahan Kimia Rev. 0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QC",
+   "Nama Doc": "Tidak Standar Rev. 1.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QC",
+   "Nama Doc": "Deadline Monitoring Rev.0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QC",
+   "Nama Doc": "Penanganan Penyimpanan Analisa Rev. 0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QC",
+   "Nama Doc": "Penanganan Peralatan Rev. 0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QC",
+   "Nama Doc": "Pelaksanaan Tera Ulang Kalibrasi Rev. 1.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QC",
+   "Nama Doc": "Tanggap Darurat X-Ray Mati Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QC",
+   "Nama Doc": "Penanganan Keluhan Pelanggan Rev.1.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QC",
+   "Nama Doc": "Quality Notification Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QC",
+   "Nama Doc": "Inspection Lot Manual Rev.0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " TEKNIK",
+   "Nama Doc": "Penanganan Gas Drop Rev. 0.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " TEKNIK",
+   "Nama Doc": "Instalasi Mesin Rev.0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " TEKNIK",
+   "Nama Doc": "Refurbishment Maintenance Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " TEKNIK",
+   "Nama Doc": "Preventive Maintenance Rev. 0.4",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " TEKNIK",
+   "Nama Doc": "Pemindahani Mesin Rev.0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " TEKNIK",
+   "Nama Doc": "Modifikasi & Improvement Mesin Rev.0.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " TEKNIK",
+   "Nama Doc": "Penanganan Pln Padam Dan Pln Open Rev. 0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " TEKNIK",
+   "Nama Doc": "Tanggap Darurat Supply Air Mati Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " TEKNIK",
+   "Nama Doc": "External Service Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " TEKNIK",
+   "Nama Doc": "Pengambilan Spare Part Khusus Rev.0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " TEKNIK",
+   "Nama Doc": "Breakdown Dan Corrective Maintenance Rev. 1.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " TEKNIK",
+   "Nama Doc": "Spare Part Management Rev.0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " TEKNIK",
+   "Nama Doc": "Pengolahan Air Rev. 1.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " WAREHOUSE FML",
+   "Nama Doc": "Penjualan Sf Ke Bu Lain Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " WAREHOUSE FML",
+   "Nama Doc": "Proses Mayor 3 (Crack) Rev. 2.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " WAREHOUSE FML",
+   "Nama Doc": "Proses Mayor 1 (Persiapan Bahan Mayor Adonan Dan Cream Untuk Internal Dan Eksternal) Rev. 2.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " WAREHOUSE FML",
+   "Nama Doc": "Proses Permintaan Dan Pengiriman Bahan Ke Produksi Internal Dan Eksternal Rev. 1.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " WAREHOUSE FML",
+   "Nama Doc": "Penjualan Rm Pm Ke Internal - Eksternal Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " WAREHOUSE FML",
+   "Nama Doc": "Pengeluaran Bahan Dan Pengiriman Bahan Rev. 1.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " WAREHOUSE FML",
+   "Nama Doc": "Proses Serah Terima Bahan Baku Dari Gudang Bahan Baku Ke Formulasi Rev. 0.5",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " WAREHOUSE FML",
+   "Nama Doc": "Material Staging Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " WAREHOUSE FML",
+   "Nama Doc": "Proses Mayor 2 (Penyiapan Sf Gula Halus Untuk Internal Dan Eksternal) Rev. 2.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Asset Under Construction Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Permintaan Perubahan Master Data Selected Set Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Incoming Payment Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Permintaan Perubahan Material Master Spare Part Set Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Intracompany Transaction Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Permintaan Perubahan Master Data Production Version Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Permintaan Perubahan Master Data Plant Maintenance Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Proses Impor Barang Rev. 1.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Pencatatan Dan Penerimaan Piutang Usaha (Ar) Rev. 0.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Bank And Cash Management Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Permintaan Perubahan Master Data Material Master Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Maintenance Server Rev. 0.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Permintaan Perubahan Master Inspection Charcteristic Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Permintaan Perubahan Master Data Work Center Dan Routing Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Maintenance Perangkat It Rev. 0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Memorial Journal Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Permintaan Perubahan Master Data Batch Characteristic & Classification Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Suppoting Perbaikan Atau Penggantian Perangkat Teknologi Informasi Rev. 0.3",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Pencatatan Dan Pembayaran Hutang Usaha (Ar) Rev. 0.2",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Taxation Rev. 1.1",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Permintaan Perubahan Master Data Quality Management Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Acquisition Asset Non Mm Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Invoice Pembelian Non Material Management Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " FA",
+   "Nama Doc": "Outgoing Payment Rev. 0.0",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " QA",
+   "Nama Doc": "Sop Pelaksanaan Fumigasi",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Sop Seleksi & Evaluasi Vendor Kantin",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " WAREHOUSE FML",
+   "Nama Doc": "P Penerimaan Dan Penyimpanan Bahan",
+   "Link": "",
+   "File Name": ""
+ },
+ {
+   "Owner": "BU C",
+   "Jenis Dokumen": "SOP",
+   "Divisi": " HCS ",
+   "Nama Doc": "Sop Pengembangan Kompetensi Teknis",
+   "Link": "",
+   "File Name": ""
+ }
+]
